@@ -31,3 +31,7 @@ Saving up some of PHP exercises that I answered:
    4. [date_validation_format.php](date_validation_format.php)
    
     - Write a single regular expression that can be used to match all of these date formats: mm/dd/yyyy, m/d/yyyy, mm/d/yyyy, m/dd/yyyy
+
+   5. [Laravel - Copy files to another folder](LARAVEL/copy_files_to_another_folder.php)
+    
+    - Function to use in laravel to copy files from folder to another destination folder.
