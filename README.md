@@ -35,3 +35,18 @@ Saving up some of PHP exercises that I answered:
    5. [Laravel - Copy files to another folder](LARAVEL/copy_files_to_another_folder.php)
     
     - Function to use in laravel to copy files from folder to another destination folder.
+
+   6. [Laravel - Convert base64 to image file](LARAVEL/convert_base64_to_image.php)
+    
+    - Function to use in laravel to convert base64 image into an image file.
+
+   7. [Laravel - Convert image to base64](LARAVEL/convert_image_to_base64.php)
+    
+    - Function to use in laravel to image into a base64 image.
+
+   8. [Laravel - Resize image and store to given directory](LARAVEL/resize_image_and_store.php)
+    
+    - Function to use in laravel to resize image and save it in the given directory.
+
+    
+     

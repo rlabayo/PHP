@@ -1,6 +1,9 @@
 <?php
 /** Laravel function **/
-/**  */
+/** Conver base64 to image file */
+/** $image = input file image **/
+/** $filesize = maximum file size **/
+
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Storage;
