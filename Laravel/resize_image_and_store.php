@@ -1,6 +1,10 @@
 <?php
 /** Laravel function **/
-/**  */
+/** Resize image and store it in the destination path */
+/** $image = input file image **/
+/** $width = desired width **/
+/** $height = desired height **/
+/** $filesize = maximum file size **/
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Storage;

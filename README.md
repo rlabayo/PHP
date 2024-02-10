@@ -32,6 +32,21 @@ Saving up some of PHP exercises that I answered:
    
     - Write a single regular expression that can be used to match all of these date formats: mm/dd/yyyy, m/d/yyyy, mm/d/yyyy, m/dd/yyyy
 
-   5. [Laravel - Copy files to another folder](LARAVEL/copy_files_to_another_folder.php)
+   5. [Laravel - Copy files to another folder](Laravel/copy_files_to_another_folder.php)
     
     - Function to use in laravel to copy files from folder to another destination folder.
+
+   6. [Laravel - Convert base64 to image file](Laravel/convert_base64_to_image.php)
+    
+    - Function to use in laravel to convert base64 image into an image file.
+
+   7. [Laravel - Convert image to base64](Laravel/convert_image_to_base64.php)
+    
+    - Function to use in laravel to image into a base64 image.
+
+   8. [Laravel - Resize image and store to given directory](Laravel/resize_image_and_store.php)
+    
+    - Function to use in laravel to resize image and save it in the given directory.
+
+    
+     
